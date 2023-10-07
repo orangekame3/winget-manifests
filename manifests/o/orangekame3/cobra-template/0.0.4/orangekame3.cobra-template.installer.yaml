@@ -2,7 +2,7 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.5.0.schema.json
 PackageIdentifier: orangekame3.cobra-template
 PackageVersion: 0.0.4
-InstallerLocale: en-US
+InstallerLocale: ja-JP
 InstallerType: zip
 ReleaseDate: "2023-10-07"
 Installers:
