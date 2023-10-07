@@ -12,7 +12,7 @@ Installers:
       - RelativeFilePath: cobra-template.exe
         PortableCommandAlias: cobra-template
     InstallerUrl: https://github.com/orangekame3/cobra-template/releases/download/v0.0.4/cobra-template_Windows_x86_64.zip
-    InstallerSha256: 0630b4d1ac9f598a004780bb026c2f89bf4ca85e924441431877aa0b03d6bcbd
+    InstallerSha256: F54FFCBD7C313C02AD78181B663C7D44C47DCDF663AEE4D568ECAD76B6A82BBB
     UpgradeBehavior: uninstallPrevious
   - Architecture: arm64
     NestedInstallerType: portable
